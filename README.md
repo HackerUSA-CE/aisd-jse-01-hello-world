@@ -17,9 +17,9 @@ javascript-hello-world/
 # Instructions ✅
 
 ## 1. **Create the Project Folder and Files**
-   - [ ] Create a folder named `javascript-hello-world/` to store all your project files.
+   - [ ] Create a folder named `javascript-hello-world` to store all your project files.
    
-   - [ ] Inside the `javascript-hello-world/` folder, create a file named `index.js`. This will be your JavaScript file.
+   - [ ] Inside the `javascript-hello-world` folder, create a file named `index.js`. This will be your JavaScript file.
    
 
 ## 2. **Let's Test Our Working Environment**
