@@ -22,12 +22,12 @@ javascript-hello-world/
    - [ ] Inside the `javascript-hello-world/` folder, create a file named `index.js`. This will be your JavaScript file.
    
 
-## 2. **Let's Test Our Working Environment***
+## 2. **Let's Test Our Working Environment**
 Let's test if Node.js is installed and ensure the correct version is installed. 
 
   - [ ] Launch Visual Studio Code, then click on `File` > `Open Folder`, and select the folder you created for your project.
   - [ ] From the top menu in VS Code, click on `Terminal` and then select `New Terminal` to open a terminal window.
-  - [ ] In the terminal, type `node -v` and press Enter. You should see a version number returned, which you can verify as the correct version.
+  - [ ] In the terminal, type the code shown below and hit enter; you should see a version number displayed, confirming the correct version.
 
 ```bash
 node -v 
@@ -54,7 +54,7 @@ console.log("Hello World")
 Now that you've written your JavaScript code, let's run it in the terminal to see the output.
 
   - [ ] In Visual Studio Code, make sure you have the terminal open. If not, go to the top menu, click `Terminal`, then select `New Terminal`.
-  - [ ] To run your JavaScript code, type the following command and press Enter:
+  - [ ] To run your JavaScript code, type the following command and press enter:
   
 ```bash
 node index.js
@@ -72,7 +72,7 @@ Let's try logging something different to see how easy it is to modify and run yo
 ```javascript
 console.log("Learning JavaScript is fun!");
 ```
-  - [ ] Now, run your JavaScript code again in the terminal by typing the following command and pressing Enter:
+  - [ ] Now, run your JavaScript code again in the terminal by typing the following command and pressing enter:
   
 ```bash
 node index.js
@@ -81,8 +81,8 @@ node index.js
 **Explanation:**
 By updating the console.log message and running node index.js again, you tested your ability to modify and execute JavaScript code to see different outputs in the terminal.
 
-## 6. **Commit and Push to Github**
- - [ ] Commit and push your work to Github.
+## 6. **Commit and Push to GitHub**
+ - [ ] Commit and push your work to GitHub.
 
 # Conclusion 📄
 In this assignment, you successfully wrote and ran your first JavaScript code using Node.js. You started with a simple command to print "Hello, World!" and then experimented by changing the message to see how easy it is to modify and run JavaScript code. By following these steps, you gained hands-on experience with running JavaScript in the terminal, reinforcing your understanding of basic coding and output in JavaScript. Great work, and keep exploring the possibilities with JavaScript!
